@@ -1,16 +1,6 @@
----
-BasedOnStyle: Google
-Standard: Cpp11
-ColumnLimit: 0
-AlignTrailingComments: false
-NamespaceIndentation: All
-DerivePointerAlignment: false
-AlwaysBreakBeforeMultilineStrings: false
-AccessModifierOffset: -2
-ObjCSpaceBeforeProtocolList: true
-SortIncludes: false
----
-Language: Cpp
----
-Language: ObjC
-...
+end
+void
+delete
+stop
+close
+termination 
